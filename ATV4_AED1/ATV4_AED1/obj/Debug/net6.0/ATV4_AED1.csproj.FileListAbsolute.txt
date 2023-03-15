@@ -1,0 +1,15 @@
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\obj\Debug\net6.0\ATV4_AED1.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\obj\Debug\net6.0\ATV4_AED1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\obj\Debug\net6.0\ATV4_AED1.AssemblyInfoInputs.cache
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\obj\Debug\net6.0\ATV4_AED1.AssemblyInfo.cs
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\obj\Debug\net6.0\ATV4_AED1.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\bin\Debug\net6.0\ATV4_AED1.exe
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\bin\Debug\net6.0\ATV4_AED1.deps.json
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\bin\Debug\net6.0\ATV4_AED1.runtimeconfig.json
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\bin\Debug\net6.0\ATV4_AED1.dll
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\bin\Debug\net6.0\ref\ATV4_AED1.dll
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\bin\Debug\net6.0\ATV4_AED1.pdb
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\obj\Debug\net6.0\ATV4_AED1.dll
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\obj\Debug\net6.0\ref\ATV4_AED1.dll
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\obj\Debug\net6.0\ATV4_AED1.pdb
+H:\Visual Studio 2022\Projects\ATV4_AED1\ATV4_AED1\obj\Debug\net6.0\ATV4_AED1.genruntimeconfig.cache
